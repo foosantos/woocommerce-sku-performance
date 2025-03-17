@@ -1,4 +1,4 @@
-# WooCommerce SKU Performance
+# SKU Performance for WooCommerce
 
 ![WordPress Plugin: Tested WP Version](https://img.shields.io/badge/WordPress-6.4%20Tested-success)
 ![PHP Version](https://img.shields.io/badge/PHP-7.2%2B-blue)
